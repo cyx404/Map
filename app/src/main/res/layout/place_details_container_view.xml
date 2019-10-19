@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_marginTop="5dp"
+    android:background="#00000000"
+    android:gravity="center_horizontal"
+    android:orientation="horizontal"
+    android:translationZ="5dp">
+
+    <team.t404.gotravel.view.PlaceDetailsView
+        android:id="@+id/placeDetailsView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <team.t404.gotravel.view.PlaceDetailsView
+        android:id="@+id/placeDetailsView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <team.t404.gotravel.view.PlaceDetailsView
+        android:id="@+id/placeDetailsView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <team.t404.gotravel.view.PlaceDetailsView
+        android:id="@+id/placeDetailsView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <team.t404.gotravel.view.PlaceDetailsView
+        android:id="@+id/placeDetailsView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
+
+    <!--<Button--><!--style="?android:attr/borderlessButtonStyle"--><!--android:layout_width="wrap_content"--><!--android:layout_height="30dp"--><!--android:layout_alignParentEnd="true"--><!--android:layout_alignParentBottom="true"--><!--android:layout_margin="6dp"--><!--android:background="@drawable/button_border_green"--><!--android:text="添加到行程" />-->
+
+    <!--<Button--><!--style="?android:attr/borderlessButtonStyle"--><!--android:layout_width="wrap_content"--><!--android:layout_height="30dp"--><!--android:layout_alignParentStart="true"--><!--android:layout_alignParentBottom="true"--><!--android:layout_margin="6dp"--><!--android:background="@drawable/button_border_blue"--><!--android:text="详情" />-->
+
+    <!--<Button--><!--style="?android:attr/borderlessButtonStyle"--><!--android:layout_width="wrap_content"--><!--android:layout_height="30dp"--><!--android:layout_alignParentBottom="true"--><!--android:layout_centerHorizontal="true"--><!--android:layout_margin="6dp"--><!--android:background="@drawable/button_border_blue"--><!--android:text="查看总行程" />-->
+
+    <!--<RelativeLayout--><!--android:id="@+id/recommend_hot_window_1"--><!--android:layout_width="match_parent"--><!--android:layout_height="200dp"--><!--android:layout_alignParentBottom="true"--><!--android:alpha="1"--><!--android:background="@color/white"--><!--android:translationZ="5dp"--><!--android:visibility="invisible">-->
+
+    <!--</RelativeLayout>-->

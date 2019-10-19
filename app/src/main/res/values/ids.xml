@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="placeName" type="id" />
+    <item name="labelList1" type="id" />
+    <item name="placeAddress" type="id" />
+    <item name="divide1" type="id" />
+    <item name="placeDistance" type="id" />
+</resources>
