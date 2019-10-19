@@ -155,7 +155,6 @@ public class MainActivity extends Activity implements GeocodeSearch.OnGeocodeSea
                 Toast.makeText(MainActivity.this, address, Toast.LENGTH_LONG).show();
             }
         });
-        int a;
 
         //推荐/热门按钮
         recommend = (ButtonChangeTextRound) findViewById(R.id.recommend);
